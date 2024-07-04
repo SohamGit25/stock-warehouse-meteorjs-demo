@@ -4,11 +4,11 @@ Description in Markdown File
 
 # Built With
 
-- [MeteorJS Version 2.x](https://www.meteor.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [NodeJS](https://nodejs.org/en)
-- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
-- [Volta⚡](https://volta.sh/)
+- <a href="https://www.meteor.com/" target="_blank">MeteorJS Version 2.x</a>
+- <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
+- <a href="https://nodejs.org/en" target="_blank">NodeJS</a>
+- <a href="https://www.mongodb.com/products/tools/compass" target="_blank">MongoDB Compass</a>
+- <a href="https://volta.sh/" target="_blank">Volta⚡</a>
 
 # Getting Started
 
